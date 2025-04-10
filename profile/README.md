@@ -1,4 +1,6 @@
-We are building **Sentinel Protocol** — a 🛡️ parametric insurance framework for any risk market with reliable oracles, using **Soroban smart contracts** to enable automated claims, transparency, and full decentralization.
+# 🛡️ Sentinel Protocol
+
+We are building **Sentinel Protocol** — a parametric insurance framework for any risk market with reliable oracles, using **Soroban smart contracts** to enable automated claims, transparency, and full decentralization.
 
 Our first iteration runs oracles inside **Acurast Trusted Execution Environments (TEEs)** to securely fetch and forward Web2 data (e.g. wildfire, flight delays) to the blockchain in a **trust-minimized** way.
 
