@@ -32,4 +32,4 @@ We're also building a 💰 **Vault standard on Soroban**, inspired by **ERC-4626
 ### 🗂️ Presentations
 
 - 🚀 **[Kickstarter](https://github.com/SentinelFi/SentinelFi)** – Initial grant pitch and vision deck for Sentinel Protocol.
-- 🏗️ **[Build #35 Submission](https://github.com/SentinelFi/build_35_submission)** – Submission repo for the Build #35 hackathon.
+- 🏗️ **[Build #35 Submission](https://github.com/SentinelFi/build_35_submission)** – Submission repo for the Build #35 SCF.
