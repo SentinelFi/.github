@@ -7,9 +7,10 @@ Our first iteration runs oracles inside **Acurast Trusted Execution Environments
 We're also building a 💰 **Vault standard on Soroban**, inspired by **ERC-4626** from the EVM ecosystem, to manage capital flow between **Hedge Vaults** (protection buyers) and **Risk Vaults** (risk-takers providing liquidity).
 
 ---
-### Submission Video Links 
+### Submission Video Links (Same Video)
  - [Loom](https://www.loom.com/share/a926c77762ed46669a0fa29b65a2c4ef?sid=b2456589-db6d-457d-b4b9-49569ea7fce7)
  - [Vimeo](https://vimeo.com/1075023384)
+ - [Youtube](https://youtu.be/7APYa37jIIc)
 
 
 ### 🔗 Sentinel Protocol Repositories
