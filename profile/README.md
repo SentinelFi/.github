@@ -8,7 +8,7 @@ We're also building a 💰 **Vault standard on Soroban**, inspired by **ERC-4626
 
 ### 🔗 Sentinel Protocol Repositories
 
-- 📦 **[Sentinel Core](https://github.com/SentinelFi/soroban_vault)** – Core Soroban contracts: Vault Standard, Hedge/Risk Vaults, controller, factory.
+- 📦 **[Sentinel Core](https://github.com/SentinelFi/soroban_vault)** – Core Soroban contracts: Vault Standard, Hedge/Risk Vaults, controller, factory ([Vault](https://github.com/SentinelFi/soroban_vault/blob/main/soroban-4626/contracts/vault/src/vault.rs), [Market](https://github.com/SentinelFi/soroban_vault/blob/main/soroban-4626/contracts/market/src/market.rs)).
 - 🖥️ **[Sentinel UI](https://github.com/jsmaxi/sentinel-protocol-frontend)** – Frontend dApp for policy purchase, claims, and vault interactions.
 - 📊 **[Flight Delay Yield Analysis](https://github.com/SentinelFi/yield_analysis)** – Monte Carlo simulation-based yield analysis to assess the sustainability of flight delay insurance in the U.S. market.
 - ⚙️ **[Sentinel Oracles & Bots](https://github.com/SentinelFi/sentinel-scripts)** – Node.js scripts running inside **Acurast TEEs** and cron-based liquidation bots for automation.
@@ -25,4 +25,4 @@ We're also building a 💰 **Vault standard on Soroban**, inspired by **ERC-4626
 ### 🗂️ Presentations
 
 - 🚀 **[Kickstarter](https://github.com/SentinelFi/SentinelFi)** – Initial grant pitch and vision deck for Sentinel Protocol.
-- 🏗️ **[Build #35 Submission](https://github.com/SentinelFi/build_35_submission)** – Submission repo for the Build #35 hackathon.
+- 🏗️ **[Build #35 Submission](https://github.com/SentinelFi/build_35_submission)** – Submission repo for the Build #35 SCF.
